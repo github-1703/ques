@@ -16,7 +16,7 @@ int main()
         cout << "*";
         if (i != 0) // 2nd space and star
         {
-            for (k = 2 * i - 1; k >= 1; k--) // odd numbber of spaces here
+            for (k = 2 * i - 1; k >= 1; k--) // odd numbber of spaces here.
             {
                 cout << " ";
             }
