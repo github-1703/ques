@@ -1,5 +1,5 @@
 //this code converts binary into decimal 
-//more optimization like can convert decimal binary and use template
+//more optimization like can convert decimal binary and use templates.
 
 #include <iostream>
 #include<math.h>
