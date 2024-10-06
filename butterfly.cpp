@@ -37,7 +37,7 @@ int main()
         }
         else
         {
-            for (j = i+2; j <= n; j++)
+            for (j = i+2; j <= n; j++)//why i+2 is giving me the correct code instead of i+1
 
             {
                 cout << "*";
